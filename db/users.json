@@ -1,1 +1,21 @@
-{}
+{
+  "aseel": {
+    "username": "aseel",
+    "password": "Aseel2008.",
+    "student_type": "علمي",
+    "telegram_user_id": "6283494919",
+    "telegram_username": null,
+    "telegram_first_name": "Aseel",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_49.jpg",
+    "session_id": "6a3a5ab4-9b48-45f3-bac9-5029b3950fc3",
+    "created_at": "2026-05-11T18:01:12.911813",
+    "verified": true,
+    "last_login": "2026-05-11T18:01:16.414988",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "physics_mechanic"
+    ],
+    "server_num": 45
+  }
+}
